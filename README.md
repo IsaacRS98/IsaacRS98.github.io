@@ -6,7 +6,8 @@ from application licensing and account provisioning to software troubleshooting 
 support staff to utilise.
 - Experience with Microsoft Intune and Azure services for hardware set-up and maintenance.
 - Managed stock intake and distribution for IT related assets.
-Developers Institute (Software Developer/Teaching Assistant) April 2022 - September 2023
+
+#### <em>Developers Institute (Software Developer/Teaching Assistant) 1 Year 8 Months</em>
 - Ran product discovery, technical design and managed the rollout of a new Learning Management System for the
 organisation, to enable the organisation to automate manual processes, and move to an event driven architecture
 including data insights.
@@ -17,7 +18,8 @@ stand-ups, weekly planning sessions, and meetings with stakeholders.
 - Led an organisational wide rollout of Okta as the organisational identity provider, using Terraform, including automated
 provisioning and managing all our staff and student accounts across multiple tools. Resulted in a huge increase in
 efficiency for admin staff who previously managed all accounts manually.
-North Power (Software Developer) March 2021 - May 2022
+
+#### <em>North Power (Software Developer) 1 Year 3 Months</em>
 - Worked in a small remote team delivering features and improvements across multiple Angular applications and .NET
 services.
 - Initiated & Implemented server-side pagination across an entire application and multiple services to improve load times for
@@ -26,13 +28,21 @@ users and reduced processing costs for the organisation.
 within an Angular application with a new service workflow to allow users to process new data models.
 - Led an overhaul of the team's CI/CD processes using Azure DevOps. This resulted in a more streamlined testing and
 release process allowing more frequent & smoother releases.
-Skills
-- Interpersonal communication - Leadership - IT Technical Support
-- Problem Solving - Ability to learn - Software development & management
-- Adaptability - Teaching/Mentoring
-Education
+
+## Skills
+- Interpersonal communication 
+- Leadership 
+- IT Technical Support
+- Problem Solving 
+- Ability to learn 
+- Software development & management
+- Adaptability 
+- Teaching/Mentoring
+
+## Education
 New Zealand Diploma in Software Development (level 6) Developers Institute June 2022
-- Web development - API Services
-- CI/CD Integration and management - Enterprise development experience
+- Web development 
+- API Services
+- CI/CD Integration and management 
+- Enterprise development experience
 - Database Management
-NCEA Level 2
